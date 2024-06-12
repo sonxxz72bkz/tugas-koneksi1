@@ -14,6 +14,6 @@ ada 5 tabel <br>
 
 <img src="db.png" img>
             
-# screenshoot Home
+# Screenshoot tabel
 
 <img src="home.png" img>
