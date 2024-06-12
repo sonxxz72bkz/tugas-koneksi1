@@ -3,7 +3,7 @@
 Koneksi Database Mysql Ke PHP
 Judul "database uts"
 <br>
-ada 4 tabel <br>
+ada 5 tabel <br>
 1. Tabel Pelanggan <br>
 2. Tabel bus <br>
 3. Tabel jadwal <br>
