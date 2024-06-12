@@ -10,7 +10,7 @@
     </style>
 </head>
 <body>
-    <center><h1>tabel data bus</h1></center>
+    <center><h1>Tabel Data Bus</h1></center>
 
     <h3>Tabel Pelanggan</h3>
     <table>
